@@ -210,4 +210,4 @@ This course content is provided for educational purposes. Please check individua
 
 **Ready to start building amazing applications with Oracle APEX? Let's begin your low-code journey!** 🚀
 
-*Last Updated: December 2024*
+*Last Updated: August 2025*
